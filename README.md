@@ -19,7 +19,7 @@
 
 ## Project structure
 
-
+```
 predictive-maintenance-ml-data-analysis/
 ├── data/
 │   ├── raw/            # original dataset (ai4i2020.csv)
@@ -31,7 +31,7 @@ predictive-maintenance-ml-data-analysis/
 │   └── 04_forest_regression.ipynb             # random forest
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Tech stack
 
